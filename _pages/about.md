@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is [Your Name], and I am currently a Mphil. Student at the Hong Kong University of Science and Technology (Guangzhou campus) with major: Artificial intelligence (AI). I completed my undergraduate studies at the Hong Kong Baptist University with major Finance. My research interests lie at the intersection of AI and Finance, an exciting and rapidly evolving field.
+
+My specific research focus is on Financial Technology (FinTech), Transfer Learning, and Large-scale Language Models (LLM). In the realm of FinTech, I am captivated by the transformative power of technology and how it can revolutionize traditional financial systems, making them more efficient, accessible, and inclusive.
+
+In terms of Transfer Learning, I am fascinated by the ability of this technique to leverage knowledge from one domain to improve learning in another. This approach is particularly valuable in situations where data is scarce or expensive to collect.
+
+Finally, my interest in Large-scale Language Models stems from their potential to understand and generate human-like text. These models are incredibly versatile, with applications ranging from automated customer service to providing assistance in complex decision-making processes.
+
+I am eager to explore these areas further and contribute to advancements in these fields during my time at the Hong Kong University of Science and Technology. I am confident that my unique blend of skills and interests will enable me to make significant contributions to both academia and industry.
+
+My email is ""
 
 A data-driven personal website
 ======
